@@ -348,5 +348,6 @@ ul { list-style: none; }
   .contact-layout { grid-template-columns: 1fr; }
   .hero { min-height: 100%; 
         width: 100%}
+  .hero-video { width: 100% }
   .slide img { height: 260px; }
 }
