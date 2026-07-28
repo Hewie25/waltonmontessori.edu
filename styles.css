@@ -346,6 +346,7 @@ ul { list-style: none; }
   .montessori-grid,
   .visit-grid,
   .contact-layout { grid-template-columns: 1fr; }
-  .hero { min-height: 29vh; }
+  .hero { min-height: 100%; 
+        width: 100%}
   .slide img { height: 260px; }
 }
